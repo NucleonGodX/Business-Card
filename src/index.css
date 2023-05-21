@@ -1,13 +1,106 @@
 body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+    position: absolute;
+    margin-top:0px;
+    background-color:#23252C;
+    text-align:center
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+img{
+    position:absolute;
+    padding-top:50px;
+    
+    left:540px;
+    width:317px;
+    height:317px;
+
+}
+
+.img1{
+    Width:12.8px;
+    Height:9.6px;
+    top:57px;
+    left:70px;
+}
+
+.img2{
+    Width:12.8px;
+    Height:9.6px;
+    top:57px;
+    left:168px;
+}
+h1 {
+    color:#DCDCDC;
+    font-family: Inter;
+font-style: Bold;
+font-size: 25px;
+Line-height: 30px;
+Line-height: 100%;
+vertical-align: Top;
+
+}
+h3{
+    Font-family: Inter;
+Font-style: Regular;
+Font-size: 12.8px;
+Line-height: 15px;
+Line-height: 100%;
+    color:#F3BF99
+}
+p{
+    color:#DCDCDC;
+}
+div{
+    position:absolute;
+    top:360px;
+
+    left:540px;
+    background-color: #1A1B21;
+    display:block;
+    width: 317px;
+    height: 399px;
+}
+button{
+    display:inline;
+    margin:5px;
+    Font-family: Inter;
+    Font-style: Medium;
+    Font-size: 14px;
+    Line-height: 16px;
+    Line-height: 94%;
+    Vertical-align: Top;
+    padding:15px;
+    padding-left:30px;
+    border-radius:12px;
+    font-weight: 500;
+}
+a{
+    text-decoration: none;
+}
+.bttn{
+    background-color: rgba(26, 154, 228, 0.918);
+}
+
+.footer{
+    background-color: #161619;
+    padding:20px;
+}
+
+.insta{
+    width:25px;
+    height:25px;
+    left:70px;
+    top:347px;
+}
+.git{
+    width:25px;
+    height:25px;
+    left:150px;
+    top:347px;
+}
+
+.twit{
+    width:25px;
+    height:25px;
+    left:230px;
+    top:347px;
 }
