@@ -3,7 +3,7 @@ import linkd from './linkd.png'
 import Link from './App'
 export default function Info(){
     return (   <>
-    <h1>Manit Singh</h1>
+    <h1>Harshjeet Singh</h1>
     <h3>Frontend Developer</h3>
     <img className="img1" src={email}/>
     <img className="img2" src={linkd}/>
